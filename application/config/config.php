@@ -21,7 +21,7 @@ $config['main_config'] = array(
     'encryption_options' => 0,
     'encryption_iv' => '2539435361336837',
     'encryption_key' => 'insert_your_encryption_key',
-    'site_language' => 'english',
+    'site_language' => 'russian',
     'codesystem' => 'api',
 );
 /*
